@@ -5,3 +5,5 @@ We received the recordings of multiple participants (about 50) saying different 
 Then, We cleaned up the data (removed silent sections and removed unintelligible recordings), separated each recording to it's syllables, extracted auditory
 features and then used the random forest classifier to find the distinguishing features of learning (thanks to sklearn's feature selection option we
 were able to receive a ranking of each feature's importance in the construction of the random forest)
+
+* The data we worked with is currently unavailable to the public (which is why it isn't in this repository)
